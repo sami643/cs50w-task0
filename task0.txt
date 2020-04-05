@@ -1,0 +1,10 @@
+Instruction: 
+
+1. Clone this given webpage and personalize it according to your preferences.
+2. download "Git bash" for your PC. 
+3. Create a Github account 
+4. Goto your github page:
+5. Create a new repository called "cs50w-task0"
+6. push your local webpage code to the remote github repository. 
+7. Publish your webage by leveraging 'github pages'
+8. Send the link of your page to this email : sartajahmad1529@gmail.com
